@@ -2,8 +2,11 @@
 A gimbal is a device that allows an object to rotate around an axis. It is commonly used in cameras to stabilize the footage by counteracting the movements and vibrations. Building a gimbal with an Arduino Nano, MPU6050, MG996R servo motors, and a buck converter involves several components and steps.
 
 Arduino Nano - A compact microcontroller board based on the ATmega328P, used to process data and control the gimbal.
+
 MPU6050 - An Inertial Measurement Unit (IMU) sensor that includes a gyroscope and accelerometer. It provides real-time orientation and acceleration data.
+
 MG996R Servo Motors - High-torque servo motors used to control the movement of the gimbal’s axes (pitch, roll, and yaw).
+
 Buck Converter - A DC-DC converter used to step down voltage to a level suitable for the Arduino and other components.
 
 **Working of the Gimbal**:
